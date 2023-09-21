@@ -5,5 +5,4 @@ Practicing using the bootstrap library for css to make a simple landing page usi
 # Bulit With
 
 - HTML
-- CSS
 - BootStrap
